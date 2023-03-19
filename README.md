@@ -4,10 +4,9 @@
 
 # :basketball: USG_Massive
 
+"This package is used for parallel, asynchronous multi-processing in Python. 
 
-
-This package is for paraller Asynchronized python multi process 
-This project is for the massive running program for cloud service
+This project is designed for running large-scale programs on cloud services."
 
 ## :heart_eyes: Requirements
 python 3.9.0 <=
