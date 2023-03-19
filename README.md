@@ -10,6 +10,8 @@ This project is designed for running large-scale programs on cloud services."
 
 ## :heart_eyes: Requirements
 python 3.9.0 <=
+paramiko 
+scp
 
 ## :snowflake:  Futureworks
 1. docker image automatical installation [80%] 
