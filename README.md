@@ -4,7 +4,7 @@
 
 # :basketball: USG_Massive
 
-"This package is used for parallel, asynchronous multi-processing in Python. 
+"This package is used for parallel, 1 to 1 server client tcp socket for multi-processing in Python. 
 
 This project is designed for running large-scale programs on cloud services."
 
