@@ -1,11 +1,29 @@
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 
-# USG_Massive
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,linux,docker,aws,gcp)](https://skillicons.dev)
+
+# :basketball: USG_Massive
+
+
 
 This package is for paraller Asynchronized python multi process 
 This project is for the massive running program for cloud service
 
-In python example
+## :heart_eyes: Requirements
+python 3.9.0 <=
+
+## :snowflake:  Futureworks
+1. docker image automatical installation [80%] 
+2. aws, gcp for command [50%]
+3. manager for assive multiprocessing [10%]
+4. GUI data analysis system [0%]
+
+## :art: How to install
+
+download usg_multi_process python package and usg_socket.h
+
+## :saxophone: In python example 
+
 ```python
 from parallerprocessing.core import Core
 import copy
