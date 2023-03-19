@@ -1,5 +1,9 @@
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
+
 # USG_Massive
-Paraller Asynchronized python multi process examples
+
+This package is for paraller Asynchronized python multi process 
+This project is for the massive running program for cloud service
 
 In python example
 ```python
